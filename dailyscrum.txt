@@ -1,0 +1,105 @@
+2024/01/25-Amine
+1. Done / not done since last scrum:
+- Most of the Project Prosal
+2. To do until next Scrum:
+- Need to update the database schema
+- Need to add project mockups
+- Need to create the github repo
+- do a little more research about how to build the project
+3. Need assistance / figure things out
+- Need to get approval on the proposal to upload it.
+
+2024/01/25-Claudiu
+1. Done / not done since last scrum:
+- Parts of the Project Prosal
+2. To do until next Scrum:
+- Need to update the use case diagram
+- do a little more research about how to build the project
+3. Need assistance / figure things out:
+- Need to get approval on the proposal to upload it.
+
+2024/01/26-Amine
+1. Done / not done since last scrum:
+- Update the database schema
+- Add project mockups
+- Create the github repo
+- Project Prosal uploaded to LEA
+- Helped to complete the trello board
+2. To do until next Scrum:
+- do a little more research about how to build the project
+3. Need assistance / figure things out
+- Need to get approval on the proposal to upload it.
+
+2024/01/26-Claudiu
+1. Done:
+- Parts of the Project Prosal
+- Update the use case diagram
+- Create remote DB on AWS using mySQL DB with full access for all members / teacher
+- finished first stage setup for Trello
+2. To do until next Scrum:
+- research about how to build the project
+3. Need assistance / figure things out:
+- research about how to build the project
+
+2024/01/29-Amine
+1. Done / not done since last scrum:
+- do a little more research about how to build the project
+2. To do until next Scrum:
+- Start coding the project
+3. Need assistance / figure things out
+
+2024/01/29-Claudiu
+1. Done:
+2. To do until next Scrum:
+- research about how to build the project
+3. Need assistance / figure things out:
+
+2024/01/30-Amine
+1. Done / not done since last scrum:
+- Started coding the project
+2. To do until next Scrum:
+- improve design and fix bugs
+3. Need assistance / figure things out
+
+2024/01/30-Claudiu
+1. Done:
+2. To do until next Scrum:
+- research about how to build the project
+- started coding
+3. Need assistance / figure things out:
+
+2024/01/31-Amine
+1. Done / not done since last scrum:
+- Started improving the design and fix bugs
+2. To do until next Scrum:
+- continue improving the design and fix bugs
+- implement sign out function
+3. Need assistance / figure things out
+
+2024/01/31-Claudiu
+1. Done:
+- first stage of coding done
+2. To do until next Scrum:
+- creating the admin functionalities and CRUD operations
+3. Need assistance / figure things out:
+- role implementation in DB
+
+
+2024/02/01-Amine
+1. Done / not done since last scrum:
+- continue improving the design and fix bugs
+- implement sign out function
+- configure button links to profile page
+2. To do until next Scrum:
+- continue improving the design and fix bugs
+-  File upload (S3 preferred, or Azure Blob storage)
+3. Need assistance / figure things out
+
+2024/02/01-Claudiu
+1. Done:
+- first stage of coding done
+2. To do until next Scrum:
+- testing the admin functionalities and CRUD operations
+3. Need assistance / figure things out:
+- testing the code
+
